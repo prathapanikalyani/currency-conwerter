@@ -1,0 +1,4 @@
+com\aspire\microservices\currencyconversionservice\resource\CurrencyConversionResource.class
+com\aspire\microservices\currencyconversionservice\proxy\CurrencyExchangeProxy.class
+com\aspire\microservices\currencyconversionservice\model\CurrencyConversion.class
+com\aspire\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class
